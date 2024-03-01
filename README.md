@@ -14,5 +14,7 @@ About me
 ## Tools
 ![Static Badge](https://img.shields.io/badge/VS%20CODE-1245?style=for-the-badge&logo=visual%20studio&logoColor=blue&labelColor=black&color=blue)
 ![Static Badge](https://img.shields.io/badge/github-1245?style=for-the-badge&logo=github&logoColor=%232b3137&labelColor=black&color=%232b3137)
+![Static Badge](https://img.shields.io/badge/figma-1245?style=for-the-badge&logo=figma&logoColor=%238B00FF&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Photoshop-1245?style=for-the-badge&logo=adobe%20photoshop&logoColor=%2318AFFF&labelColor=black&color=%2318AFFF)
 
 Follow Me
