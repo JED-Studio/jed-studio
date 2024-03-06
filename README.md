@@ -1,6 +1,4 @@
-Header
 
-About me
 
 ## Tech stack
 
